@@ -6,4 +6,4 @@ I created this web application to practice the skills I was learning during the 
 
 Technologies used for this: PHP, HTML, CSS, Bootstrap, JSON, MySQL
 
-You see an this current version of the site here: [I'm an inline-style link](http://www.breimer.net/rj04maha/projects/project3/login.php)
+[You see an this current version of the site here](http://www.breimer.net/rj04maha/projects/project3/login.php)
